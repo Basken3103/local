@@ -5,6 +5,7 @@ let view = document.getElementById("view")
 //Deklaration uden datatype eller vrdi af en variabel der senere
 //bliver et array med alle dyr
 
+
 let animals
 
 //Er der noget i Local Storage
